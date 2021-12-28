@@ -1,0 +1,1 @@
+## Hello Everyone! Thank you for joining! Please make a new file. Then title it with your name and then introduce yourself in the markup.
